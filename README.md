@@ -1,29 +1,117 @@
-# SayCheese v1.0
-Take webcam shots from target just sending a malicious link
+<h1 align="center">HackLock v1.0</h1>
+<p align="center">
+      A new android pattern lock phishing tool for termux users
+</p>
 
-![cheese](https://user-images.githubusercontent.com/60990704/83184464-22fd5880-a147-11ea-924a-e8af8d80a73a.jpg)
+## 🔍 ***About hacklock***:
 
-# How it works?
-<p>The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding methods, and a javascript code to cam requests using MediaDevices.getUserMedia. </p>
+hacklock is a bash based script which is officially termux from this tool in just one click you can generate pattern phishing tool which can hack victim pattern and. This tool works on both rooted Android device and Non-rooted Android device.
 
-<p>The MediaDevices.getUserMedia() method prompts the user for permission to use a media input which produces a MediaStream with tracks containing the requested types of media. That stream can include, for example, a video track (produced by either a hardware or virtual video source such as a camera, video recording device, screen sharing service, and so forth), an audio track (similarly, produced by a physical or virtual audio source like a microphone, A/D converter, or the like), and possibly other track types. </p>
+[![Build Status](https://img.shields.io/github/stars/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/hacklock)
+[![Build Status](https://img.shields.io/github/forks/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/hacklock)
+[![License: MIT](https://img.shields.io/github/license/noob-hackers/m-wiz.svg)](https://github.com/Abhi6722/hacklock)
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#hacklock)
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[See more about MediaDEvices.getUserMedia() here](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
-<p> To convince the target to grant permissions to access the cam.</p>
+![Screenshot_](https://user-images.githubusercontent.com/49580304/78962692-8c32f900-7b12-11ea-9ddb-dd5d94d825be.jpg)
 
-## Installing (Kali Linux/Termux):
+### 📌 ***Hacklock is available for***:
 
+* Termux
+
+### 📌 ***Installation and usage guide***:
 ```
-git clone https://github.com/cyb3rt3ch/saycheese
-
-cd saycheese
-
-apt-get install wget
-
-apt-get install php
-
-bash saycheese.sh
+$ apt-get update -y
 ```
-## Donate Us:
-   https://bit.ly/DonaTeUs
+```
+$ apt-get upgrade -y
+```
+```
+$ pkg install python -y 
+```
+```
+$ pkg install python2 -y
+```
+```
+$ pkg install git -y
+```
+```
+$ pip install lolcat
+```
+```
+$ git clone https://github.com/noob-hackers/hacklock
+```
+```
+$ ls
+```
+```
+$ cd hacklock
+```
+```
+$ ls
+```
+```
+$ bash hacklock.sh
+```
 
+* Now you need internet connection to continue further process and Turn on your device hotspot to get link...
+
+* You will recieve patter pin in below image you can see pattern with numbers
+
+* You can select any option by clicking on your keyboard
+
+* Note:- Don't delete any of the scripts included in core files
+
+# 🛡 ***More***:
+
+__Hack pattern__ :
+- From this option you can create phishing pattern link which get keys of victim pattern after he used this link
+
+__About__ :
+- You can see details of the creator of script
+
+__Update__ :
+- From this option you update the script if there is new update available
+
+__Exit__ :
+- From this option you can exit from hacklock tool 
+
+## 📌 ***Screenshot*** :
+![IMG_20200410_101025](https://user-images.githubusercontent.com/49580304/78963074-e1233f00-7b13-11ea-97e9-b9d79412fb55.jpg)"
+
+![IMG_20200410_103335](https://user-images.githubusercontent.com/49580304/78964248-31e86700-7b17-11ea-8696-7dbf89b4d7de.jpg)
+
+
+## 📌 ***Full video tutorial***:
+[![m-wiz metasploit-framework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
+## 🔗 ***Check this***
+
+### Subscribe our channel on youtube:
+https://www.youtube.com/channel/UCV9qe5io3OCZ8vHMu4gnQZQ
+
+### Chekout our webite:
+https://hackershub.abhi6722.in
+
+
+## 👥 ***Join***
+
+
+### Telegram channel:
+https://t.me/officialhackershub
+
+### Facebook page:
+https://m.facebook.com/Hackers-Hub-103249834703018/?ref=bookmarks
+
+### Instagram: 
+https://www.instagram.com/official_hackershub
+
+### Pinterest:
+https://in.pinterest.com/abhinav6722cool/
+
+### My GitHub ID link:
+https://www.github.com/Abhi6722
+
+### 📢 Warning
+
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
